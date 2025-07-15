@@ -1,6 +1,6 @@
 # MCP Server
 
-This project is an MCP (Multi-Agent Conversation Protocol) Server for the given OpenAPI URL - https://api.apis.guru/v2/specs/azure.com/dynamicstelemetry/2019-01-24/swagger.json, auto-generated using AG2's [MCP builder](https://mcp.ag2.ai).
+This project is an MCP (Model Context Protocol) Server for the given OpenAPI URL - https://api.apis.guru/v2/specs/azure.com/dynamicstelemetry/2019-01-24/swagger.json, auto-generated using AG2's [MCP builder](https://mcp.ag2.ai).
 
 ## Prerequisites
 
